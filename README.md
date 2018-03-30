@@ -18,4 +18,4 @@ gradle run
 ## Screenshots
 
 ![Screenshot1](https://github.com/yeqingyun/java-decompiler/blob/master/screenshot1.png)
-![Screenshot2](https://github.com/yeqingyun/java-decompiler/blob/master/screenshot2.png)
+![Screenshot2](https://github.com/yeqingyun/java-decompiler/blob/master/screenshot2.jpg)
